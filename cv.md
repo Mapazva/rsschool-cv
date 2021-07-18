@@ -21,7 +21,7 @@ ___
   * empathy
   * emotional intelligence
 
-====
+___
 
 [Link to my GitHub](https://github.com/Mapazva) 
 

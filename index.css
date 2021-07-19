@@ -1,0 +1,45 @@
+html,
+body {
+  margin: unset;
+}
+
+h1 {
+  font-family: Source Code Pro;
+  color: darkcyan;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: source code pro;
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  background-color: #ffcde1;
+}
+
+main {
+  width: 700px;
+}
+
+.wrapper {
+  margin: 0 auto;
+}
+
+.flex-content {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.sidebar {
+  background-color: #fbe6ee;
+  width: 400px;
+  height: 100%;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}

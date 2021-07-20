@@ -28,17 +28,13 @@ h3 {
 }
 
 header {
-  width: 100%;
   background-color: #ffcde1;
 
   padding: 90px 15px;
 }
 
-main {
-  width: 700px;
-}
-
 .wrapper {
+  width: 700px;
   margin: 0 auto;
 }
 
@@ -82,7 +78,23 @@ a i {
 .main-info {
   padding: 20px;
 }
+
 footer {
   width: 100%;
   height: 100px;
+  display: flex;
+  flex-flow: row wrap;
+  background-color: #e1d1c8;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#rs-school-logo {
+  width: 100px;
+  color: darkslategray;
+}
+
+.fa-github-alt {
+  color: black;
+  font-size: 40px;
 }

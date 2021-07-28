@@ -48,6 +48,11 @@ header {
   width: 400px;
   height: 100%;
   padding: 10px;
+  padding-bottom: 265px;
+}
+
+pre {
+  margin: unset;
 }
 
 ul.no-bullets {
